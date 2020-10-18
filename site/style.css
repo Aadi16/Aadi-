@@ -5,7 +5,7 @@
 body{
 	margin: 0;
 	padding: 0;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Cooper", cursive, sans-serif;
 }
 
 .row{
@@ -16,7 +16,7 @@ body{
 h1 {
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color: green;
   font-size: 50px;
 }
 
@@ -54,12 +54,12 @@ h1 {
 }
 
 .name1{
-  background-color: #FFB6C1;
+  background-color: red;
 }
 
 .name2{
   color: white;
-  background-color: #FF0000;
+  background-color: blue;
 }
 .name3{
   background-color: #FFFF00;
