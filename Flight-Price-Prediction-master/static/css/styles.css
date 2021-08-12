@@ -1,0 +1,31 @@
+body {
+    background-color: #ced4da;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #f6f9fc;
+    color: white;
+    display: block;
+      text-align: center;
+      padding: 14px;
+      text-decoration: none;
+      font-size: 17px;
+
+}
+.btn{
+    background-color: #5e72e4;
+    border: none;
+}
+.row{
+    border: none;
+}
+
+a {
+    color: #dee2e6 ;
+    border: none;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
